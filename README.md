@@ -1,6 +1,6 @@
 # Debate Club Midterm
 
-Debating on Cats Vs Dogs.
+Debating On Cats Vs Dogs
 
 ## Contribution
 
