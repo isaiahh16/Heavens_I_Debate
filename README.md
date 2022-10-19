@@ -2,7 +2,7 @@
 
 Debating on Cats Vs Dogs
 
-## Installation
+## Contribution
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
